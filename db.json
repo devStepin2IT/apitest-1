@@ -1,10 +1,17 @@
 {
-  "productData": [{
+  "productData": [
+    {
+      "productId": "mobile_121",
       "name": "iPhone X",
       "description": "Description of iPhone X",
-      "image": "https:\/\/c.slashgear.com\/wp-content\/uploads\/2017\/09\/apple-iphone-x-space-gray-0-200x200.jpg",
+      "weight": "500 gm",
+      "images": [
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg"
+      ],
       "phone": "+1 (437) 922-8906",
-      "web": "https:\/\/www.facebook.com\/stepin2it\/",
+      "web": "https://www.facebook.com/stepin2it/",
       "price": 12.5,
       "tags": [
         "cold",
@@ -21,11 +28,11 @@
       }
     },
     {
+      "productId": "mobile_122",
       "name": "iPhone 8",
       "description": "Description of iPhone 8",
-      "image": "https:\/\/static.turbosquid.com\/Preview\/001200\/703\/6B\/iphone-8-3D-model_200.jpg",
       "phone": "+1 (437) 922-8906",
-      "web": "https:\/\/www.bestbuy.ca\/",
+      "web": "https://www.bestbuy.ca/",
       "price": 12.5,
       "tags": [
         "cold",
@@ -39,14 +46,26 @@
       "warehouseLocation": {
         "latitude": -78.75,
         "longitude": 20.4
-      }
+      },
+      "weight": "500 gm",
+      "images": [
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg"
+      ]
     },
     {
+      "productId": "mobile_123",
       "name": "iPhone 7",
       "description": "Description of iPhone 7",
-      "image": "https:\/\/cdn2.tgdd.vn\/Products\/Images\/42\/87837\/iphone-7-128gb-3-200x200.jpg",
+      "weight": "500 gm",
+      "images": [
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg"
+      ],
       "phone": "+1 (437) 922-8906",
-      "web": "https:\/\/www.facebook.com\/stepin2it\/",
+      "web": "https://www.facebook.com/stepin2it/",
       "price": 12.5,
       "tags": [
         "cold",
@@ -63,11 +82,17 @@
       }
     },
     {
+      "productId": "mobile_124",
       "name": "iPhone SE",
       "description": "Description of iPhone X",
-      "image": "https:\/\/i-cdn.phonearena.com\/images\/article\/80464-image\/Lead-times-for-the-Apple-iPhone-SE-continue-to-show-strong-demand-for-the-phone.jpg",
+      "weight": "500 gm",
+      "images": [
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg"
+      ],
       "phone": "+1 (437) 922-8906",
-      "web": "https:\/\/www.staples.ca\/",
+      "web": "https://www.staples.ca/",
       "price": 12.5,
       "tags": [
         "cold",
@@ -84,11 +109,17 @@
       }
     },
     {
+      "productId": "mobile_125",
       "name": "iPhone 6",
       "description": "Description of iPhone X",
-      "image": "https:\/\/imei24.com\/img\/apple\/17_08_59_Apple_iPhone_6_Plus_3.jpeg",
+      "weight": "500 gm",
+      "images": [
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg"
+      ],
       "phone": "+1 (437) 922-8906",
-      "web": "https:\/\/www.facebook.com\/stepin2it\/",
+      "web": "https://www.facebook.com/stepin2it/",
       "price": 12.5,
       "tags": [
         "cold",
@@ -105,11 +136,17 @@
       }
     },
     {
+      "productId": "mobile_126",
       "name": "iPhone 6",
       "description": "Description of iPhone X",
-      "image": "https:\/\/imei24.com\/img\/apple\/17_08_59_Apple_iPhone_6_Plus_3.jpeg",
+      "weight": "500 gm",
+      "images": [
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg"
+      ],
       "phone": "+1 (437) 922-8906",
-      "web": "https:\/\/www.facebook.com\/stepin2it\/",
+      "web": "https://www.facebook.com/stepin2it/",
       "price": 12.5,
       "tags": [
         "cold",
@@ -126,11 +163,17 @@
       }
     },
     {
+      "productId": "mobile_127",
       "name": "iPhone 6",
       "description": "Description of iPhone X",
-      "image": "https:\/\/imei24.com\/img\/apple\/17_08_59_Apple_iPhone_6_Plus_3.jpeg",
+      "weight": "500 gm",
+      "images": [
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg"
+      ],
       "phone": "+1 (437) 922-8906",
-      "web": "https:\/\/www.facebook.com\/stepin2it\/",
+      "web": "https://www.facebook.com/stepin2it/",
       "price": 12.5,
       "tags": [
         "cold",
@@ -147,11 +190,17 @@
       }
     },
     {
+      "productId": "mobile_128",
       "name": "iPhone 6",
       "description": "Description of iPhone X",
-      "image": "https:\/\/imei24.com\/img\/apple\/17_08_59_Apple_iPhone_6_Plus_3.jpeg",
+      "weight": "500 gm",
+      "images": [
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg"
+      ],
       "phone": "+1 (437) 922-8906",
-      "web": "https:\/\/www.facebook.com\/stepin2it\/",
+      "web": "https://www.facebook.com/stepin2it/",
       "price": 12.5,
       "tags": [
         "cold",
@@ -168,11 +217,17 @@
       }
     },
     {
+      "productId": "mobile_129",
       "name": "iPhone 6",
       "description": "Description of iPhone X",
-      "image": "https:\/\/imei24.com\/img\/apple\/17_08_59_Apple_iPhone_6_Plus_3.jpeg",
+      "weight": "500 gm",
+      "images": [
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg"
+      ],
       "phone": "+1 (437) 922-8906",
-      "web": "https:\/\/www.facebook.com\/stepin2it\/",
+      "web": "https://www.facebook.com/stepin2it/",
       "price": 12.5,
       "tags": [
         "cold",
@@ -189,11 +244,17 @@
       }
     },
     {
+      "productId": "mobile_1210",
       "name": "iPhone 6",
       "description": "Description of iPhone X",
-      "image": "https:\/\/imei24.com\/img\/apple\/17_08_59_Apple_iPhone_6_Plus_3.jpeg",
+      "weight": "500 gm",
+      "images": [
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg"
+      ],
       "phone": "+1 (437) 922-8906",
-      "web": "https:\/\/www.facebook.com\/stepin2it\/",
+      "web": "https://www.facebook.com/stepin2it/",
       "price": 12.5,
       "tags": [
         "cold",
