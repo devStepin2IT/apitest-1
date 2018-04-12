@@ -4,7 +4,7 @@
       "productId": "mobile_121",
       "name": "iPhone X",
       "description": "Description of iPhone X",
-      "weight": "500 gm",
+      "weight": "450 gm",
       "images": [
         "https://goo.gl/QPXgGJ",
         "https://goo.gl/EBaQka",
@@ -47,7 +47,7 @@
         "latitude": 43.4841663,
         "longitude": -79.929372
       },
-      "weight": "500 gm",
+      "weight": "589 gm",
       "images": [
         "https://goo.gl/qgk7A9",
         "https://goo.gl/gvEipJ",
@@ -85,7 +85,7 @@
       "productId": "mobile_124",
       "name": "iPhone SE",
       "description": "Description of iPhone X",
-      "weight": "500 gm",
+      "weight": "540 gm",
       "images": [
         "https://goo.gl/DoW8Yp",
         "https://goo.gl/RQk9ZG",
@@ -112,7 +112,7 @@
       "productId": "mobile_125",
       "name": "iPhone 6",
       "description": "Description of iPhone X",
-      "weight": "500 gm",
+      "weight": "470 gm",
       "images": [
         "https://goo.gl/QC2z79",
         "https://goo.gl/TCBnxk",
@@ -139,7 +139,7 @@
       "productId": "mobile_126",
       "name": "Google Pixel 2",
       "description": "Description of iPhone X",
-      "weight": "500 gm",
+      "weight": "532 gm",
       "images": [
         "https://goo.gl/WRa7wy",
         "https://goo.gl/b6AoX7",
@@ -166,7 +166,7 @@
       "productId": "mobile_127",
       "name": "Galaxy S8",
       "description": "Description of iPhone X",
-      "weight": "500 gm",
+      "weight": "390 gm",
       "images": [
         "https://goo.gl/LK6kaq",
         "https://goo.gl/ico5zP",
@@ -193,7 +193,7 @@
       "productId": "mobile_128",
       "name": "Galaxy Note 8",
       "description": "Description of iPhone X",
-      "weight": "500 gm",
+      "weight": "623 gm",
       "images": [
         "https://goo.gl/g2Zd6Q",
         "https://goo.gl/brecby",
@@ -220,7 +220,7 @@
       "productId": "mobile_129",
       "name": "One Plus 5t",
       "description": "Description of iPhone X",
-      "weight": "500 gm",
+      "weight": "550",
       "images": [
         "https://goo.gl/DnJ2vT",
         "https://goo.gl/LreaCP",
@@ -247,7 +247,7 @@
       "productId": "mobile_1210",
       "name": "Google Nexus 6p",
       "description": "Description of iPhone X",
-      "weight": "500 gm",
+      "weight": "630 gm",
       "images": [
         "https://goo.gl/1zLPeq",
         "https://goo.gl/d2aVwP",
